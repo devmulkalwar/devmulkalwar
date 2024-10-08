@@ -4,26 +4,38 @@
 I'm an MCA student with a keen interest in full stack web development. I'm passionate about crafting user-friendly experiences.
 
 ### 💻 Tech Stack
-- C
-- C++
-- Java
-- HTML
-- CSS
-- JavaScript
-- React
-- Express
-- Node.js
-- MongoDB
-- PHP
-- Firebase
-- Bootstrap
-- Tailwind CSS
+<p>
+    <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/C%2B%2B-F34B7D?style=flat&logo=C%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/PHP-787CB5?style=flat&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
 
 ### 🌐 Social Media
-- [LinkedIn](https://www.linkedin.com/in/dev-mulkalwar)
-- [Instagram](https://www.instagram.com/dev_mulkalwar)
-- [Facebook](https://www.facebook.com/dev.mulkalwar)
-- [Twitter](https://twitter.com/dev_mulkalwar)
+<p>
+    <a href="https://www.linkedin.com/in/dev-mulkalwar">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.instagram.com/dev_mulkalwar">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://www.facebook.com/dev.mulkalwar">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+    <a href="https://twitter.com/dev_mulkalwar">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+</p>
 
 ### 📧 Contact
 Feel free to reach out to me via email: [devmulkalwar95@gmail.com](mailto:devmulkalwar95@gmail.com)
@@ -36,17 +48,17 @@ Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app
 ## 📊 GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/dev-mulkalwar?tab=repositories#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=dev-mulkalwar&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" alt="@Dev's github-readme-stats"/>
+    <a href="https://github.com/devmulkalwar?tab=repositories#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" alt="@Dev's github-readme-stats"/>
     </a>
-    <a href="https://github.com/dev-mulkalwar?tab=repositories#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=dev-mulkalwar&theme=default&show_icons=true&count_private=true&hide_border=true" width="48%" alt="@Dev's github-readme-stats"/>
+    <a href="https://github.com/devmulkalwar?tab=repositories#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&theme=default&show_icons=true&count_private=true&hide_border=true" width="48%" alt="@Dev's github-readme-stats"/>
     </a>
-    <a href="https://github.com/dev-mulkalwar?tab=stars#gh-dark-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-mulkalwar&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Dev's github-readme-streak-stats"/>
+    <a href="https://github.com/devmulkalwar?tab=stars#gh-dark-mode-only">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Dev's github-readme-streak-stats"/>
     </a>
-    <a href="https://github.com/dev-mulkalwar?tab=stars#gh-light-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-mulkalwar&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Dev's github-readme-streak-stats"/>
+    <a href="https://github.com/devmulkalwar?tab=stars#gh-light-mode-only">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Dev's github-readme-streak-stats"/>
     </a>
 </p>
 
@@ -56,6 +68,12 @@ Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app
 <p align="center">
     <a href="https://www.codewars.com/users/DevMulkalwar">
         <img alt="codewars badge" src="https://www.codewars.com//users/DevMulkalwar/badges/large">
+    </a>
+    <a href="https://leetcode.com/devmulkalwar/">
+        <img alt="LeetCode badge" src="https://img.shields.io/badge/LeetCode-FE5F40?style=flat&logo=LeetCode&logoColor=white" />
+    </a>
+    <a href="https://www.codechef.com/users/devmulkalwar">
+        <img alt="CodeChef badge" src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white" />
     </a>
 </p>
 
@@ -72,5 +90,5 @@ Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app
 ---
 
 <p align="center">
-<a href="https://gist.github.com/dev-mulkalwar"><img src="https://profile-counter.glitch.me/{dev-mulkalwar}/count.svg" alt="Dev Mulkalwar :: Visitor's Count" /></a>
+<a href="https://gist.github.com/devmulkalwar"><img src="https://profile-counter.glitch.me/{devmulkalwar}/count.svg" alt="Dev Mulkalwar :: Visitor's Count" /></a>
 </p>
