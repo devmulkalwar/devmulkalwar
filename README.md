@@ -4,7 +4,6 @@
 
 I'm an MCA student deeply passionate about full stack web development. I thrive on transforming ideas into reality through code, focusing on creating seamless and user-friendly experiences. My journey in tech has fueled my enthusiasm for learning new technologies and frameworks, and I’m dedicated to honing my skills to build innovative and efficient web applications. I believe that great software not only meets user needs but also provides an enjoyable experience, and I am committed to contributing to that vision.
 
-### 💻 Tech Stack
 
 ### 💻 Tech Stack
 <p>
@@ -15,7 +14,7 @@ I'm an MCA student deeply passionate about full stack web development. I thrive 
         <img src="https://img.icons8.com/color/48/000000/c-plus-plus.png" alt="C++" />
     </a>
     <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup.png" alt="Java" />
+        <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java" />
     </a>
     <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
@@ -63,11 +62,11 @@ I'm an MCA student deeply passionate about full stack web development. I thrive 
     <a href="https://www.facebook.com/dev.mulkalwar" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" />
     </a>
-    <a href="https://x.com/dev_mulkalwar" target="_blank">
+     <a href="https://x.com/dev_mulkalwar" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/x-logo.png" alt="X (formerly Twitter)" />
     </a>
     <a href="https://leetcode.com/u/devmulkalwar95/" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/50/000000/leetcode.png" alt="LeetCode" />
+        <img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" />
     </a>
 </p>
 
