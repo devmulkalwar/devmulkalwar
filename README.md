@@ -1,24 +1,25 @@
 # 👋 Hi, I'm Dev Mulkalwar
 
 ### 👨‍🎓 About Me
-I'm an MCA student with a keen interest in full stack web development. I'm passionate about crafting user-friendly experiences.
+I'm an MCA student deeply passionate about full stack web development. I thrive on transforming ideas into reality through code, focusing on creating seamless and user-friendly experiences. My journey in tech has fueled my enthusiasm for learning new technologies and frameworks, and I’m dedicated to honing my skills to build innovative and efficient web applications. I believe that great software not only meets user needs but also provides an enjoyable experience, and I am committed to contributing to that vision.
+
 
 ### 💻 Tech Stack
 <p>
-    <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/C%2B%2B-F34B7D?style=flat&logo=C%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/PHP-787CB5?style=flat&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/C%2B%2B-F34B7D?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/PHP-787CB5?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 ### 🌐 Social Media
@@ -64,18 +65,6 @@ Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app
 
 ---
 
-### 🏆 Badges
-<p align="center">
-    <a href="https://www.codewars.com/users/DevMulkalwar">
-        <img alt="codewars badge" src="https://www.codewars.com//users/DevMulkalwar/badges/large">
-    </a>
-    <a href="https://leetcode.com/devmulkalwar/">
-        <img alt="LeetCode badge" src="https://img.shields.io/badge/LeetCode-FE5F40?style=flat&logo=LeetCode&logoColor=white" />
-    </a>
-    <a href="https://www.codechef.com/users/devmulkalwar">
-        <img alt="CodeChef badge" src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white" />
-    </a>
-</p>
 
 ### 🐱‍💻 Activity Graph
 <p align="center">
