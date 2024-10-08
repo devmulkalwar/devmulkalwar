@@ -68,12 +68,7 @@ Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app
 
 ### 🐱‍💻 Activity Graph
 <p align="center">
-    <a href="https://wakatime.com/@DevMulkalwar#gh-dark-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevMulkalwar&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-    <a href="https://wakatime.com/@DevMulkalwar#gh-light-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevMulkalwar&theme=github-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmulkalwar&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph"/>
 </p>
 
 ---
