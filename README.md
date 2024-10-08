@@ -24,52 +24,49 @@ I'm an MCA student deeply passionate about full stack web development. I thrive 
 
 ### 🌐 Social Media
 <p>
-    <a href="https://www.linkedin.com/in/dev-mulkalwar">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/dev-mulkalwar" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
     </a>
-    <a href="https://www.instagram.com/dev_mulkalwar">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+    <a href="https://www.instagram.com/dev_mulkalwar" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
     </a>
-    <a href="https://www.facebook.com/dev.mulkalwar">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+    <a href="https://www.facebook.com/dev.mulkalwar" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" />
     </a>
-    <a href="https://x.com/dev_mulkalwar">
-        <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X (formerly Twitter)" />
+    <a href="https://x.com/dev_mulkalwar" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="X (formerly Twitter)" />
     </a>
-    <a href="https://leetcode.com/u/devmulkalwar95/">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <a href="https://leetcode.com/u/devmulkalwar95/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" />
     </a>
 </p>
-
-
 
 ### 📧 Contact
 Feel free to reach out to me via email: [devmulkalwar95@gmail.com](mailto:devmulkalwar95@gmail.com)
 
 ### 🚀 Portfolio
-Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app/)
+Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app/) (opens in a new tab)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/devmulkalwar?tab=repositories#gh-dark-mode-only">
+    <a href="https://github.com/devmulkalwar?tab=repositories#gh-dark-mode-only" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" alt="@Dev's github-readme-stats"/>
     </a>
-    <a href="https://github.com/devmulkalwar?tab=repositories#gh-light-mode-only">
+    <a href="https://github.com/devmulkalwar?tab=repositories#gh-light-mode-only" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&theme=default&show_icons=true&count_private=true&hide_border=true" width="48%" alt="@Dev's github-readme-stats"/>
     </a>
-    <a href="https://github.com/devmulkalwar?tab=stars#gh-dark-mode-only">
+    <a href="https://github.com/devmulkalwar?tab=stars#gh-dark-mode-only" target="_blank">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Dev's github-readme-streak-stats"/>
     </a>
-    <a href="https://github.com/devmulkalwar?tab=stars#gh-light-mode-only">
+    <a href="https://github.com/devmulkalwar?tab=stars#gh-light-mode-only" target="_blank">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Dev's github-readme-streak-stats"/>
     </a>
 </p>
 
 ---
-
 
 ### 🐱‍💻 Activity Graph
 <p align="center">
@@ -79,5 +76,5 @@ Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app
 ---
 
 <p align="center">
-<a href="https://gist.github.com/devmulkalwar"><img src="https://profile-counter.glitch.me/{devmulkalwar}/count.svg" alt="Dev Mulkalwar :: Visitor's Count" /></a>
+<a href="https://gist.github.com/devmulkalwar" target="_blank"><img src="https://profile-counter.glitch.me/{devmulkalwar}/count.svg" alt="Dev Mulkalwar :: Visitor's Count" /></a>
 </p>
