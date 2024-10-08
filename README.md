@@ -25,7 +25,7 @@ I'm an MCA student deeply passionate about full stack web development. I thrive 
 ### 🌐 Social Media
 <p>
     <a href="https://www.linkedin.com/in/dev-mulkalwar">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://www.instagram.com/dev_mulkalwar">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
@@ -33,10 +33,15 @@ I'm an MCA student deeply passionate about full stack web development. I thrive 
     <a href="https://www.facebook.com/dev.mulkalwar">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
-    <a href="https://twitter.com/dev_mulkalwar">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+    <a href="https://x.com/dev_mulkalwar">
+        <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X (formerly Twitter)" />
+    </a>
+    <a href="https://leetcode.com/u/devmulkalwar95/">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
 </p>
+
+
 
 ### 📧 Contact
 Feel free to reach out to me via email: [devmulkalwar95@gmail.com](mailto:devmulkalwar95@gmail.com)
