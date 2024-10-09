@@ -82,10 +82,10 @@ Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app
 
 <p align="center">
     <a href="https://github.com/devmulkalwar?tab=repositories" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&theme=radical&hide_border=true&locale=en" alt="devmulkalwar" width="45%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&theme=radical&hide_border=true&locale=en" alt="devmulkalwar" width="45%" height="200px" />
     </a>
     <a href="https://github.com/devmulkalwar?tab=repositories" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="devmulkalwar" width="45%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="devmulkalwar" width="45%" height="200px" />
     </a>
 </p>
 
