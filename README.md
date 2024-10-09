@@ -82,25 +82,29 @@ Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app
 
 <p align="center">
     <a href="https://github.com/devmulkalwar?tab=repositories" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&theme=radical&hide_border=true&locale=en" alt="devmulkalwar" width="48%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&theme=radical&hide_border=true&locale=en" alt="devmulkalwar" width="45%" />
     </a>
     <a href="https://github.com/devmulkalwar?tab=repositories" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="devmulkalwar" width="48%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="devmulkalwar" width="45%" />
     </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&" alt="devmulkalwar" /></p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&theme=radical&hide_border=true" alt="devmulkalwar" width="90%" />
+</p>
 
 ---
 
 ### 🐱‍💻 Activity Graph
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmulkalwar&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmulkalwar&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20in%20All%20Repo" width="95%" alt="activity graph" />
 </p>
 
 ---
 
 <p align="center">
-<a href="https://gist.github.com/devmulkalwar" target="_blank"><img src="https://profile-counter.glitch.me/{devmulkalwar}/count.svg" alt="Dev Mulkalwar :: Visitor's Count" /></a>
+    <a href="https://gist.github.com/devmulkalwar" target="_blank">
+        <img src="https://profile-counter.glitch.me/{devmulkalwar}/count.svg" alt="Dev Mulkalwar :: Visitor's Count" />
+    </a>
 </p>
