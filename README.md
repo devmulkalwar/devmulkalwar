@@ -4,8 +4,8 @@
 
 I'm an MCA student deeply passionate about full stack web development. I thrive on transforming ideas into reality through code, focusing on creating seamless and user-friendly experiences. My journey in tech has fueled my enthusiasm for learning new technologies and frameworks, and I’m dedicated to honing my skills to build innovative and efficient web applications. I believe that great software not only meets user needs but also provides an enjoyable experience, and I am committed to contributing to that vision.
 
-
 ### 💻 Tech Stack
+
 <p>
     <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -16,12 +16,12 @@ I'm an MCA student deeply passionate about full stack web development. I thrive 
     <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
     </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40"/> 
-    </a>
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
+</a>
+   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40"/>
+   </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     </a>
@@ -48,22 +48,23 @@ I'm an MCA student deeply passionate about full stack web development. I thrive 
     </a>
 </p>
 
-### 🌐 Social Media
-<p>
+### 🌐 Dev Mulkalwar - Social Media
+
+<p align="left">
     <a href="https://www.linkedin.com/in/dev-mulkalwar" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
     <a href="https://www.instagram.com/dev_mulkalwar" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
     <a href="https://www.facebook.com/dev.mulkalwar" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
     </a>
-     <a href="https://x.com/dev_mulkalwar" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/x-logo.png" alt="X (formerly Twitter)" />
+    <a href="https://x.com/dev_mulkalwar" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (formerly Twitter)" height="30" width="40" />
     </a>
-    <a href="https://leetcode.com/u/devmulkalwar95/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" />
+    <a href="https://leetcode.com/devmulkalwar" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
     </a>
 </p>
 
@@ -73,26 +74,19 @@ Feel free to reach out to me via email: [devmulkalwar95@gmail.com](mailto:devmul
 
 ### 🚀 Portfolio
 
-Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app/) (opens in a new tab)
+Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app/)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-    <a href="https://github.com/devmulkalwar?tab=repositories#gh-dark-mode-only" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" alt="@Dev's github-readme-stats"/>
-    </a>
-    <a href="https://github.com/devmulkalwar?tab=repositories#gh-light-mode-only" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&theme=default&show_icons=true&count_private=true&hide_border=true" width="48%" alt="@Dev's github-readme-stats"/>
-    </a>
-    <a href="https://github.com/devmulkalwar?tab=stars#gh-dark-mode-only" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Dev's github-readme-streak-stats"/>
-    </a>
-    <a href="https://github.com/devmulkalwar?tab=stars#gh-light-mode-only" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Dev's github-readme-streak-stats"/>
-    </a>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&locale=en&layout=compact" alt="devmulkalwar" />
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&locale=en" alt="devmulkalwar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&" alt="devmulkalwar" /></p>
 
 ---
 
