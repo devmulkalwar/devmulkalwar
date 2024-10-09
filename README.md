@@ -31,8 +31,8 @@ I'm an MCA student deeply passionate about full stack web development. I thrive 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/offices/40/000000/express-js.png" alt="Express.js" width="40" height="40"/>
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
@@ -63,7 +63,7 @@ I'm an MCA student deeply passionate about full stack web development. I thrive 
     <a href="https://x.com/dev_mulkalwar" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (formerly Twitter)" height="30" width="40" />
     </a>
-    <a href="https://leetcode.com/devmulkalwar" target="_blank">
+    <a href="https://leetcode.com/u/devmulkalwar95/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
     </a>
 </p>
@@ -80,11 +80,11 @@ Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app
 
 ## 📊 GitHub Stats
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&locale=en" alt="devmulkalwar" /></p>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&locale=en&layout=compact" alt="devmulkalwar" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&locale=en&layout=compact" alt="devmulkalwar" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&locale=en" alt="devmulkalwar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&" alt="devmulkalwar" /></p>
 
