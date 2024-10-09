@@ -17,10 +17,10 @@ I'm an MCA student deeply passionate about full stack web development. I thrive 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
     </a>
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
-</a>
+        <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
+    </a>
    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40"/>
+        <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40"/>
    </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -32,7 +32,7 @@ I'm an MCA student deeply passionate about full stack web development. I thrive 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/offices/40/000000/express-js.png" alt="Express.js" width="40" height="40"/>
+        <img src="https://img.icons8.com/offices/40/000000/express-js.png" alt="Express.js" width="40" height="40"/>
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
@@ -80,11 +80,14 @@ Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app
 
 ## 📊 GitHub Stats
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&locale=en" alt="devmulkalwar" /></p>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&locale=en&layout=compact" alt="devmulkalwar" />
+<p align="center">
+    <a href="https://github.com/devmulkalwar?tab=repositories" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&theme=radical&hide_border=true&locale=en" alt="devmulkalwar" width="48%"/>
+    </a>
+    <a href="https://github.com/devmulkalwar?tab=repositories" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="devmulkalwar" width="48%"/>
+    </a>
 </p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&" alt="devmulkalwar" /></p>
 
