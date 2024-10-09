@@ -48,7 +48,7 @@ I'm an MCA student deeply passionate about full stack web development. I thrive 
     </a>
 </p>
 
-### 🌐 Dev Mulkalwar - Social Media
+### 🌐 Social Media
 
 <p align="left">
     <a href="https://www.linkedin.com/in/dev-mulkalwar" target="_blank">
