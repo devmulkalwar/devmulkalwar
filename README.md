@@ -2,7 +2,7 @@
 
 ### 👨‍🎓 About Me
 
-I'm an MCA student deeply passionate about full stack web development. I thrive on transforming ideas into reality through code, focusing on creating seamless and user-friendly experiences. My journey in tech has fueled my enthusiasm for learning new technologies and frameworks, and I’m dedicated to honing my skills to build innovative and efficient web applications. I believe that great software not only meets user needs but also provides an enjoyable experience, and I am committed to contributing to that vision.
+I'm an MCA student deeply passionate about full stack web development. I thrive on transforming ideas into reality through code, focusing on creating seamless and user-friendly experiences. My journey in tech has fueled my enthusiasm for learning new technologies and frameworks, and I’m dedicated to honing my skills to build innovative and efficient web applications.
 
 ### 💻 Tech Stack
 
