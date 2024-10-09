@@ -80,13 +80,15 @@ Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <a href="https://github.com/devmulkalwar?tab=repositories" target="_blank" style="flex: 1 1 300px; max-width: 400px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&theme=radical&hide_border=true&locale=en" alt="devmulkalwar" style="width: 100%; height: 200px; object-fit: cover;" />
-    </a>
-    <a href="https://github.com/devmulkalwar?tab=repositories" target="_blank" style="flex: 1 1 300px; max-width: 400px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="devmulkalwar" style="width: 100%; height: 200px; object-fit: cover;" />
-    </a>
+<div align="center" style="display: flex; flex-direction: column; gap: 10px;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; width: 100%;">
+        <a href="https://github.com/devmulkalwar?tab=repositories" target="_blank" style="flex: 1 1 300px; max-width: 400px;">
+            <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&theme=radical&hide_border=true&locale=en" alt="devmulkalwar" style="width: 100%; height: 200px; object-fit: cover;" />
+        </a>
+        <a href="https://github.com/devmulkalwar?tab=repositories" target="_blank" style="flex: 1 1 300px; max-width: 400px;">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="devmulkalwar" style="width: 100%; height: 200px; object-fit: cover;" />
+        </a>
+    </div>
 </div>
 
 
