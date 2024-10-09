@@ -80,14 +80,15 @@ Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <a href="https://github.com/devmulkalwar?tab=repositories" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&theme=radical&hide_border=true&locale=en" alt="devmulkalwar" width="45%" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&theme=radical&hide_border=true&locale=en" alt="devmulkalwar" style="width: 45%; max-width: 400px; height: 200px;" />
     </a>
     <a href="https://github.com/devmulkalwar?tab=repositories" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="devmulkalwar" width="45%" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="devmulkalwar" style="width: 45%; max-width: 400px; height: 200px;" />
     </a>
-</p>
+</div>
+
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&theme=radical&hide_border=true" alt="devmulkalwar" width="90%" />
