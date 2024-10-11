@@ -79,22 +79,16 @@ Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app
 ---
 
 ## 📊 GitHub Stats
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px; width: 100%; max-width: 800px; margin: 0 auto;">
-    <a href="https://github.com/devmulkalwar?tab=repositories" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&theme=radical&hide_border=true&locale=en" alt="devmulkalwar" style="width: 100%; height: 200px; object-fit: cover;" />
-    </a>
-    <a href="https://github.com/devmulkalwar?tab=repositories" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="devmulkalwar" style="width: 100%; height: 200px; object-fit: cover;" />
-    </a>
-</div>
-
-
-
-
+<a href="https://github.com/devmulkalwar?tab=repositories" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="devmulkalwar" style="width: 100%; height: 200px; object-fit: cover;" />
+</a>
+<a href="https://github.com/devmulkalwar?tab=repositories" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="devmulkalwar" style="width: 100%; height: 200px; object-fit: cover;" />
+</a>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&theme=radical&hide_border=true" alt="devmulkalwar" width="90%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&theme=dracula&hide_border=true" alt="devmulkalwar" width="90%" />
 </p>
+
 
 ---
 
