@@ -79,13 +79,15 @@ Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app
 ---
 
 ## 📊 GitHub Stats
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="devmulkalwar" style="width: 45%; height: 200px; object-fit: cover;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="devmulkalwar" style="width: 45%; height: 200px; object-fit: cover;" />
-</div>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&theme=tokyonight&hide_border=true" alt="devmulkalwar" width="90%" height=200px />
+   <p> <img  align="left" src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="devmulkalwar" style=" height: 200px; object-fit: cover;" /> 
+   </p>
+    <p> &nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="devmulkalwar" style=" height: 200px; object-fit: cover;" />
+  </p>
+
+<p>
+    <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&theme=tokyonight&hide_border=true" alt="devmulkalwar" width="90%" height=200px margin=20px />
 </p>
 
 ---
