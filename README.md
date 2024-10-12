@@ -79,26 +79,23 @@ Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app
 ---
 
 ## 📊 GitHub Stats
-<p>
-  <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="devmulkalwar" style="height: 200px;  margin: 10px;" />
-</p>
-<p>  &nbsp;
-  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="devmulkalwar" style="height: 200px; margin: 10px;" />
-</p>
 
-<p>
-  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&theme=tokyonight&hide_border=true" alt="devmulkalwar" width="90%" height="200px" style="margin: 20px;" />
-</p>
-
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%; max-width: 300px; height: auto;" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" style="width: 100%; max-width: 300px; height: auto;" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" style="width: 100%; max-width: 600px; height: auto;" />
+</div>
 
 ---
 
 ### 🐱‍💻 Activity Graph
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmulkalwar&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20in%20All%20Repo" width="90%"  alt="activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmulkalwar&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20in%20All%20Repo" style="width: 100%; max-width: 1000px; height: auto;" alt="Activity Graph" />
 </p>
 
 ---
