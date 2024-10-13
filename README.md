@@ -87,7 +87,7 @@ Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app
   <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" style="width: 90%; max-width: 300px; height: auto;" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" style="width: 50%; max-width: 600px; height: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" style="width: 90%; max-width: 600px; height: auto;" />
 </div>
 
 ---
