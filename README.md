@@ -92,14 +92,16 @@ Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app
 
 ## 📊 GitHub Stats
 
-<div align="center"style="max-width:300px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="Top Languages" style="width: 45%;  height: auto;" />
-</div>
-<div align="center" style="max-width:300px ">
-  <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" style="width: 45%;  height: auto;" />
-</div>
-<div align="center" style="max-width:600px min-width:300px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" style="width: 70%; height: auto;" />
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px; justify-items: center;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%; height: auto;" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" style="width: 100%; height: auto;" />
+  </div>
+  <div style="grid-column: span 2;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" style="width: 100%; height: auto;" />
+  </div>
 </div>
 
 ---
