@@ -58,6 +58,9 @@ I'm an MCA student deeply passionate about full stack web development. I thrive 
 <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
 </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
+</a>
 </p>
 
 ### 🌐 Social Media
