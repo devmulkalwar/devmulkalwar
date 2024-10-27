@@ -7,7 +7,9 @@ I'm an MCA student deeply passionate about full stack web development. I thrive 
 ### 💻 Tech Stack
 <p>
     <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,php,bootstrap,react,redux,tailwind,express,nodejs,mongodb,firebase,mysql,figma,git,github"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,php,bootstrap,react" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=redux,tailwind,express,nodejs,mongodb,firebase,mysql,figma,git,github" />
 </div>
 </p>
 
