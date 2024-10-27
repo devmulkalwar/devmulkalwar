@@ -2,12 +2,12 @@
 
 ### 👨‍🎓 About Me
 
-- **Education**: MCA student
-- **Passion**: Deeply passionate about full stack web development
-- **Focus**: Transforming ideas into reality through code
-- **Goal**: Creating seamless and user-friendly experiences
-- **Journey**: Enthusiastic about learning new technologies and frameworks
-- **Dedication**: Committed to honing skills to build innovative and efficient web applications
+- 🎓 **Education**: MCA student
+- 💻 **Passion**: Deeply passionate about full stack web development
+- ✨ **Focus**: Transforming ideas into reality through code
+- 🎯 **Goal**: Creating seamless and user-friendly experiences
+- 🚀 **Journey**: Enthusiastic about learning new technologies and frameworks
+- 🔧 **Dedication**: Committed to honing skills to build innovative and efficient web applications
 
 ### 💻 Tech Stack
 <p>
