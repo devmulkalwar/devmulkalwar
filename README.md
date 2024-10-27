@@ -1,4 +1,4 @@
-# ![Animated Name](https://media.giphy.com/media/your-gif-url.gif) 👋 Hi, I'm Dev Mulkalwar
+#  👋 Hi, I'm Dev Mulkalwar
 
 <p align="center">
 <a href="https://github.com/devmulkalwar">
