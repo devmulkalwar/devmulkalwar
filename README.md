@@ -46,15 +46,15 @@ Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app
 ## 📊 GitHub Stats
 <table align="center">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="middle">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="middle">
       <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="2" align="center" valign="middle">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="75%" />
     </td>
   </tr>
