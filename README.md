@@ -1,4 +1,10 @@
-# 👋 Hi, I'm Dev Mulkalwar
+# ![Animated Name](https://media.giphy.com/media/your-gif-url.gif) 👋 Hi, I'm Dev Mulkalwar
+
+<p align="center">
+<a href="https://github.com/devmulkalwar">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Dev+Mulkalwar;Full+Stack+Web+Developer;MERN+Stack+%7C+JavaScript+%7C+React" alt="Typing SVG" />
+</a>
+</p>
 
 ### 👨‍🎓 About Me
 
