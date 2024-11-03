@@ -66,7 +66,7 @@ Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app
   </tr>
   <tr>
     <td colspan="2" align="center" valign="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="70%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="75%" />
     </td>
   </tr>
 </table>
