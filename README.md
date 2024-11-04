@@ -18,12 +18,13 @@
 ### 💻 Tech Stack
 <p>
     <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,php,bootstrap,react,vite" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=redux,tailwind,express,nodejs,mongodb,firebase,mysql,figma,git,github" />
-</div>
+            <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,php,bootstrap,react,vite" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=redux,tailwind,express,nodejs,mongodb,firebase,mysql,figma,git,github" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=nextjs,typescript,materialui,vercel,netlify,render,postman" />
+    </div>
 </p>
-
 ### 🌐 Social Media
 
 <p align="left">
