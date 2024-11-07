@@ -1,6 +1,6 @@
 #  👋 Hi, I'm Dev Mulkalwar
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/devmulkalwar">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=2000&pause=100&multiline=true&width=500&height=100&lines=Dev+Mulkalwar;Full+Stack+Web+Developer;MERN+Stack+%7C+JavaScript+%7C+React" alt="Typing SVG" />
 </a>
@@ -8,7 +8,7 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 **Education**: MCA student
+- 🎓 **Education**: MCA student at GHRCEM
 - 💻 **Passion**: Deeply passionate about full stack web development
 - ✨ **Focus**: Transforming ideas into reality through code
 - 🎯 **Goal**: Creating seamless and user-friendly experiences
