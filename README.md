@@ -1,7 +1,6 @@
 #  👋 Hi, I'm Dev Mulkalwar
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left">
+<p align=""center">
 <a href="https://github.com/devmulkalwar">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=2000&pause=100&multiline=true&width=500&height=100&lines=Dev+Mulkalwar;Full+Stack+Web+Developer;MERN+Stack+%7C+JavaScript+%7C+React" alt="Typing SVG" />
 </a>
