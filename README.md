@@ -1,5 +1,6 @@
 #  👋 Hi, I'm Dev Mulkalwar
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left">
 <a href="https://github.com/devmulkalwar">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=2000&pause=100&multiline=true&width=500&height=100&lines=Dev+Mulkalwar;Full+Stack+Web+Developer;MERN+Stack+%7C+JavaScript+%7C+React" alt="Typing SVG" />
@@ -15,16 +16,39 @@
 - 🚀 **Journey**: Enthusiastic about learning new technologies and frameworks
 - 🔧 **Dedication**: Committed to honing skills to build innovative and efficient web applications
 
+
 ### 💻 Tech Stack
+
 <p>
-    <div align="center">
-            <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,php,bootstrap,react" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=materialui,vite,redux,tailwind,express,nodejs,mongodb,firebase,mysql" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=figma,git,github,nextjs,typescript,vercel,netlify,postman" />
-    </div>
+    <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" />
 </p>
+
+
 
 ### 🌐 Social Media
 
