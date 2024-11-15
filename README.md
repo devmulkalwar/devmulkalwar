@@ -6,7 +6,7 @@
 </a>
 </p>
 
-<img align="right" src="./assets/laptop.gif" width="500">
+<img align="right" src="./assets/laptop.gif" width="300">
 
 ### 👨‍🎓 About Me
 
