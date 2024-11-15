@@ -6,6 +6,8 @@
 </a>
 </p>
 
+<img align="left" src="./assets/github.gif" width="500">
+
 ### 👨‍🎓 About Me
 
 - 🎓 **Education**: MCA student at GHRCEM Nagpur  
