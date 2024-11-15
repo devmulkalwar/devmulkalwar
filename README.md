@@ -8,12 +8,12 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 **Education**: MCA student at GHRCEM
-- 💻 **Passion**: Deeply passionate about full stack web development
-- ✨ **Focus**: Transforming ideas into reality through code
-- 🎯 **Goal**: Creating seamless and user-friendly experiences
-- 🚀 **Journey**: Enthusiastic about learning new technologies and frameworks
-- 🔧 **Dedication**: Committed to honing skills to build innovative and efficient web applications
+- 🎓 **Education**: MCA student at GHRCEM Nagpur  
+- 💻 **Passion**: Enthusiastic about full-stack web development  
+- ✨ **Focus**: Turning ideas into seamless solutions through code  
+- 🎯 **Goal**: Building intuitive and user-friendly web experiences  
+- 🚀 **Journey**: Always eager to explore new tools and frameworks  
+- 🔧 **Dedication**: Striving to craft efficient, modern web applications  
 
 
 ### 💻 Tech Stack
@@ -79,7 +79,7 @@ Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 <table align="center">
   <tr>
     <td width="50%" align="center" valign="middle">
