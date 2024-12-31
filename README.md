@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="fZenZhBgHdBbjv1--H654r-dFkI-lW39B9tz1Cx_4H4" />
 # 👋 Hi, I'm Dev Mulkalwar 
 
 ##  👨‍🎓 About Me
