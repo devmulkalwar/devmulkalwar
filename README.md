@@ -1,14 +1,11 @@
-# 👋 Hi, I'm Dev Mulkalwar | Full Stack Web Developer
+# 👋 Hi, I'm Dev Mulkalwar 
 
-<p>
-<a href="https://github.com/devmulkalwar">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=2000&pause=100&multiline=true&width=500&height=100&lines=Dev+Mulkalwar;Full+Stack+Web+Developer;MERN+Stack+%7C+JavaScript+%7C+React" alt="Dev Mulkalwar GitHub Profile Typing SVG" />
-</a>
-</p>
+##  👨‍🎓 About Me
+👋 Hi, I’m Dev Mulkalwar (@devmulkalwar) <br>
+👀 A passionate MERN Stack Developer dedicated to turning ideas into seamless digital experiences ✨ <br>
+🌱 Currently mastering Web Development and DSA, while exploring cutting-edge tools and frameworks 🚀
 
 <img align="right" src="./assets/devmulkalwar.gif" alt="Dev Mulkalwar Coding" width="300">
-
-### 👨‍🎓 About Me 
 
 - 🎓 **Education**: MCA student at GHRCEM Nagpur  
 - 💻 **Passion**: Enthusiastic about full-stack web development  
