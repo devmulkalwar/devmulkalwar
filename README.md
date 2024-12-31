@@ -8,31 +8,48 @@
 
 <img align="right" src="./assets/laptop.gif" alt="Dev Mulkalwar Coding" width="300">
 
-## 👨‍🎓 About Me 
-
-Hello! I'm **Dev Mulkalwar**, a passionate **Full Stack Web Developer** with expertise in the **MERN stack** and a love for crafting efficient, user-friendly web applications.  
+### 👨‍🎓 About Me 
 
 - 🎓 **Education**: MCA student at GHRCEM Nagpur  
-- 💻 **Focus**: Turning ideas into seamless, intuitive web solutions  
-- 🚀 **Tech Stack**: MERN, JavaScript, React, Node.js, MongoDB, and more  
-- 🎯 **Vision**: Building cutting-edge web experiences  
-- ✨ **Goal**: Constantly improving and learning new technologies  
+- 💻 **Passion**: Enthusiastic about full-stack web development  
+- ✨ **Focus**: Turning ideas into seamless solutions through code  
+- 🎯 **Goal**: Building intuitive and user-friendly web experiences  
+- 🚀 **Journey**: Always eager to explore new tools and frameworks  
+- 🔧 **Dedication**: Striving to craft efficient, modern web applications  
 
----
 
-## 💻 Tech Stack & Skills
-
-I am proficient in the following technologies and tools:
+### 💻 Tech Stack & Skills
 
 <p>
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,php,bootstrap,react,materialui,vite,redux,tailwind,express,nodejs,mongodb,firebase,mysql,figma,git,github,nextjs,typescript,vercel,netlify,postman" alt="Dev Mulkalwar Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" />
 </p>
 
----
-
-## 🌐 Find Me Online 
-
-Connect with me across different platforms:
+### 🌐 Find Me Online 
 
 <p align="left">
     <a href="https://www.linkedin.com/in/dev-mulkalwar" target="_blank">
@@ -52,9 +69,7 @@ Connect with me across different platforms:
     </a>
 </p>
 
----
-
-## 📧 Contact
+### 📧 Contact
 
 Want to collaborate or have questions? Feel free to reach out:
 
