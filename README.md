@@ -6,7 +6,7 @@
 </a>
 </p>
 
-<img align="right" src="./assets/laptop.gif" alt="Dev Mulkalwar Coding" width="300">
+<img align="right" src="./assets/devmulkalwar.gif" alt="Dev Mulkalwar Coding" width="300">
 
 ### 👨‍🎓 About Me 
 
