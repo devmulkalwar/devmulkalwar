@@ -1,11 +1,14 @@
-# 👋 Hi, I'm Dev Mulkalwar 
+#  👋 Hi, I'm Dev Mulkalwar
 
-##  👨‍🎓 About Me
-👋 Hi, I’m Dev Mulkalwar (@devmulkalwar) <br>
-👀 A passionate MERN Stack Developer dedicated to turning ideas into seamless digital experiences ✨ <br>
-🌱 Currently mastering Web Development and DSA, while exploring cutting-edge tools and frameworks 🚀
+<p align=""center">
+<a href="https://github.com/devmulkalwar">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=2000&pause=100&multiline=true&width=500&height=100&lines=Dev+Mulkalwar;Full+Stack+Web+Developer;MERN+Stack+%7C+JavaScript+%7C+React" alt="Typing SVG" />
+</a>
+</p>
 
-<img align="right" src="./assets/devmulkalwar.gif" alt="Dev Mulkalwar Coding" width="300">
+<img align="right" src="./assets/devmulkalwar.gif" width="300">
+
+### 👨‍🎓 About Me
 
 - 🎓 **Education**: MCA student at GHRCEM Nagpur  
 - 💻 **Passion**: Enthusiastic about full-stack web development  
@@ -15,7 +18,7 @@
 - 🔧 **Dedication**: Striving to craft efficient, modern web applications  
 
 
-### 💻 Tech Stack & Skills
+### 💻 Tech Stack
 
 <p>
     <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40" />
@@ -46,65 +49,70 @@
     <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" />
 </p>
 
-### 🌐 Find Me Online 
+
+
+### 🌐 Social Media
 
 <p align="left">
     <a href="https://www.linkedin.com/in/dev-mulkalwar" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dev Mulkalwar LinkedIn" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
     <a href="https://www.instagram.com/dev_mulkalwar" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Dev Mulkalwar Instagram" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
     <a href="https://www.facebook.com/dev.mulkalwar" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Dev Mulkalwar Facebook" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
     </a>
     <a href="https://x.com/dev_mulkalwar" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dev Mulkalwar Twitter" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (formerly Twitter)" height="30" width="40" />
     </a>
     <a href="https://leetcode.com/u/devmulkalwar95/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Dev Mulkalwar LeetCode" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
     </a>
 </p>
 
 ### 📧 Contact
 
-Want to collaborate or have questions? Feel free to reach out:
+Feel free to reach out to me via email: [devmulkalwar95@gmail.com](mailto:devmulkalwar95@gmail.com)
 
-- **Email**: [devmulkalwar95@gmail.com](mailto:devmulkalwar95@gmail.com)  
-- **Portfolio**: [Visit My Portfolio](https://dev-mulkalwar-portfolio.netlify.app/)  
+### 🚀 Portfolio
+
+Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app/)
 
 ---
 
-## 📊 GitHub Stats
-
+### 📊 GitHub Stats
 <table align="center">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="Dev Mulkalwar Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmulkalwar&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Dev Mulkalwar GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=devmulkalwar&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" valign="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&theme=tokyonight&hide_border=true" alt="Dev Mulkalwar GitHub Streak Stats" width="70%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmulkalwar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="70%" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🐱‍💻 Activity Graph
+### 🐱‍💻 Activity Graph
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmulkalwar&theme=react-dark&hide_border=true&area=true&custom_title=Dev+Mulkalwar+Contribution+Graph" alt="Dev Mulkalwar Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmulkalwar&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20in%20All%20Repo" style="width: 100%; max-width: 1000px; height: auto;" alt="Activity Graph" />
 </p>
 
 ---
 
 <p align="center">
     <a href="https://gist.github.com/devmulkalwar" target="_blank">
-        <img src="https://profile-counter.glitch.me/{devmulkalwar}/count.svg" alt="Dev Mulkalwar Visitor Count" />
+        <img src="https://profile-counter.glitch.me/{devmulkalwar}/count.svg" alt="Dev Mulkalwar :: Visitor's Count" />
     </a>
 </p>
+
+---  
+make this readme.md file SEO friendly so that when someone searches devmulkalwar, dev mulkalwar, devmulkalwar github, Dev Mulkalwar github  it should appear on the top results
