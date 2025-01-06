@@ -115,4 +115,4 @@ Check out my work at: [My Portfolio](https://dev-mulkalwar-portfolio.netlify.app
 </p>
 
 ---  
-make this readme.md file SEO friendly so that when someone searches devmulkalwar, dev mulkalwar, devmulkalwar github, Dev Mulkalwar github  it should appear on the top results
+
